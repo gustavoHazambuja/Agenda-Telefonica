@@ -6,7 +6,6 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-import Entites.Person;
 import Exception.AddException;
 import Exception.DeleteException;
 import Exception.SearchException;
@@ -16,7 +15,6 @@ import Exception.UpdateException;
 public class PhoneBook {
     Scanner dados = new Scanner(System.in);
 
-    Person person = new Person();
     
     private Map<String, String> contacts;
 
