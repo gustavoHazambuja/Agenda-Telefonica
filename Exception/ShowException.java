@@ -1,4 +1,4 @@
-package Exceptionn;
+package Exception;
 
 public class ShowException extends RuntimeException{
     
