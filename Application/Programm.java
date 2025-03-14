@@ -53,7 +53,7 @@ public class Programm {
                     try{
                         phoneBook.searchContact();
                     }catch(SearchException e){
-                        System.out.println("Erro. " + e.getMessage());
+                        System.out.println(e.getMessage());
                     }
                 
                     break;

@@ -105,6 +105,6 @@ public class PhoneBook {
             }    
 
             contacts.put(name, newNumber);
-            System.out.println("Número atualizado.");
+            System.out.println("\nNúmero atualizado.");
     }
 }
