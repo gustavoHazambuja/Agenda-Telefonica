@@ -15,7 +15,7 @@ Agenda telefônica é uma aplicação backend, ela consiste em um mini sistema d
 # Tecnologias utilizadas
 ## Back end
 - Java
-- Coleção (Map)
+- Coleções (Map)
 - Stream
   
 ```
